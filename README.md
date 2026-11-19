@@ -1,4 +1,4 @@
-# Notes App
+# Job Application Tracker
 
 A responsive, browser-based mini project built with **HTML, CSS and vanilla JavaScript**.
 
